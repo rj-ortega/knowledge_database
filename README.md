@@ -1,2 +1,2 @@
-# Knowledge_Database
-Blog of the things I've learned from knowing nothing of coding to knowing slightly more
+## Knowledge_Database
+Blog of my coding journey - from knowing nothing to knowing just a bit more
