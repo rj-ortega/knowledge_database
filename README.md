@@ -5,4 +5,4 @@
 You'll find the wiki by clicking [here](https://github.com/rjortega/knowledge_database/wiki) 📖
 
 
-![](assets/knowledge_is_power.gif)
+![](assets/walk_away.mp4)
